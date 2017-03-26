@@ -1,2 +1,3 @@
-# weekly
-font end weekly
+# 旗鱼周刊
+
+新鲜的前端文章和知识
